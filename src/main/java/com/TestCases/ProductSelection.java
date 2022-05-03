@@ -16,7 +16,7 @@ public class ProductSelection {
 	
 	driver.get("https://agentstorestg.use.ucdp.net/");
 	
-	driver.close();
+	driver.quit();
 	}
 
 }
